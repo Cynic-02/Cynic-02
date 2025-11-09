@@ -146,7 +146,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tous1f/Tous1f/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cynic-02/Cynic-02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -154,12 +154,12 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF6djE1MzVib2VvamdrMmtsZ2kwczdpYjI2YW54YXlhN2pwd3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" width="30"/> GitHub Stats
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Tous1f&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-<img src="https://github-readme-stats.vercel.app/api?username=Tous1f&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Cynic-02&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Cynic-02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tous1f&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynic-02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -167,7 +167,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd2Y3k2cTU5dzd2YzVxcndrbHRkMHNlNXIwdGplM3pxeW8xMzZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a1EQ3QKHiEa7o6thSm/giphy.gif" width="30"/> GitHub Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tous1f&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cynic-02&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -175,7 +175,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2todzJzb2x5ZTYwbWZmenNicGV3aWM3dmwxanV2YXg4a2U3djlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUBK87nOa6j16/giphy.gif" width="30"/> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tous1f&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Cynic-02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -190,7 +190,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN0aGFkY3R4ZGVzaGV5c2x4YjBzMXNvN3o3dDhpcHM3aGt5MnNjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"/> Profile Views
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Tous1f&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Cynic-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
