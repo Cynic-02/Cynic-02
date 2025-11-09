@@ -183,7 +183,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI0dzRndHd1Z21neWI5ejdzNWR0eDdiZmh2Nmk1eHh2c2R3cWczNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JGmjLpmTPS5QmgLFAM/giphy.gif" width="30"/> LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/tousifizaz37?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Cyn11c?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
