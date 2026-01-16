@@ -85,6 +85,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
 </td>
 
 <td align="center" width="250">
@@ -110,6 +111,7 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
 </td>
 
 <td align="center">
@@ -138,31 +140,10 @@ Most days, I survive on <b><span style="color:#FFA657; font-size: 18px;">coffee<
 
 ---
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF6djE1MzVib2VvamdrMmtsZ2kwczdpYjI2YW54YXlhN2pwd3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" width="30"/> GitHub Stats
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Cynic-02&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-<img src="https://github-readme-stats.vercel.app/api?username=Cynic-02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynic-02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd2Y3k2cTU5dzd2YzVxcndrbHRkMHNlNXIwdGplM3pxeW8xMzZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a1EQ3QKHiEa7o6thSm/giphy.gif" width="30"/> GitHub Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cynic-02&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2todzJzb2x5ZTYwbWZmenNicGV3aWM3dmwxanV2YXg4a2U3djlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUBK87nOa6j16/giphy.gif" width="30"/> GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Cynic-02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
